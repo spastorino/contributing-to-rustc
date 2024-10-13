@@ -1,3 +1,20 @@
+class: center, gosim
+name: title
+count: false
+
+.hide[![Rust logo](content/rust-logo-blk.svg)]
+
+# Contributing to the Rust Compiler Workshop
+
+.grey[Santiago Pastorino & Jack Huey]<br>
+.grey[.smaller[Compiler & types team and Futurewei Rust team]]
+
+???
+
+Pre-slide for Gosim
+
+---
+
 class: center
 name: title
 count: false
