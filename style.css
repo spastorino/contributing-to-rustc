@@ -40,6 +40,11 @@ h3 {
   font-size: 50%;
 }
 
+.gosim {
+  background-image: url(content/gosim.jpg);
+  background-size: 100%;
+}
+
 ul {
   line-height: 150%;
 }
