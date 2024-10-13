@@ -71,13 +71,11 @@ You would find everything you need in the Rustc Dev Guide
 Guide: https://rustc-dev-guide.rust-lang.org/building/prerequisites.html
 
 ```
-# clone the repo
+# clone the repo, there's no need to do ./x setup as the repo already
+# includes a config.toml and run all ui tests as a way to check that
+# everything works
 git clone https://github.com/spastorino/contributing-to-rustc-exercises.git
 cd contributing-to-rustc-exercises
-
-# no need to ./x setup as the repo already includes a config.toml
-
-# run all ui tests as a way to check that everything works
 ./x test tests/ui
 ```
 
