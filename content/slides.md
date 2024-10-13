@@ -61,7 +61,7 @@ You would find everything you need in the Rustc Dev Guide
 - Rust development environment
     - Text editor or IDE
     - Git (and basic Git knowledge)
-- Clone the workshop compiler repo (https://github.com/spastorino/contributing-to-rustc.git) and build/test
+- Clone the workshop compiler repo (https://github.com/spastorino/contributing-to-rustc-exercises.git) and build/test
     - Useful guide: https://rustc-dev-guide.rust-lang.org/building/how-to-build-and-run.html (1.1, 1.2, 1.3)
 
 ---
