@@ -48,6 +48,10 @@ li ul {
   font-size: 90%;
 }
 
+.medium li ul {
+  font-size: 80%;
+}
+
 h2 {
   margin-bottom: -20px;
 }
