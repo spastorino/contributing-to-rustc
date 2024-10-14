@@ -21,3 +21,12 @@ trait T2 {
 
 fn main() {}
 ```
+
+## Branch
+
+```
+# Go to previously cloned exercises repo
+cd contributing-to-rustc-exercises
+git checkout exercises/ice-rpitit-no-body
+./x test tests/ui
+```

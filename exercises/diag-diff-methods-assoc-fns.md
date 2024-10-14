@@ -11,3 +11,12 @@ impl Other for () {
 ```
 
 Make that be `associated function` for associated functions and `method` for methods.
+
+## Branch
+
+```
+# Go to previously cloned exercises repo
+cd contributing-to-rustc-exercises
+git checkout exercises/diag-diff-methods-assoc-fns
+./x test tests/ui
+```

@@ -19,3 +19,12 @@ impl<F: for<'v> Fun<Assoc = &'v ()>> Trait for F {}
 
 fn main() {}
 ```
+
+## Branch
+
+```
+# Go to previously cloned exercises repo
+cd contributing-to-rustc-exercises
+git checkout exercises/ice-trait-no-impl-rpitit
+./x test tests/ui
+```
