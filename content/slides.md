@@ -111,7 +111,7 @@ https://rustc-dev-guide.rust-lang.org/building/suggested.html#configuring-rust-a
 
 # Overview of the compiler
 
-.center[[![Overview](https://raw.githubusercontent.com/rust-lang/rustc-dev-guide/444fb28c880a24f9b36f1f6d658688c4041a60f8/src/overview/img/high-level-overview.svg)](https://rustc-dev-guide.rust-lang.org/overview.html)]
+.center[[![Overview](content/high-level-overview.svg)](https://rustc-dev-guide.rust-lang.org/overview.html)]
 
 ???
 
