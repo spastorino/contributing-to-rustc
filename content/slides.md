@@ -45,19 +45,6 @@ Share our experience about how and why did we get into the compiler
 
 ---
 
-# Getting started
-
-.center[[![Rustc Dev Guide](content/rustc-dev-guide.png)](https://rustc-dev-guide.rust-lang.org/)]
-
-.center[https://rustc-dev-guide.rust-lang.org/]
-
-???
-
-- You would find everything you need in the Rustc Dev Guide
-- Take one minute to open the guide and navigate it together
-
----
-
 # Prerequisites and requirements
 
 - Laptop capable of building a compiler
@@ -74,6 +61,19 @@ Share our experience about how and why did we get into the compiler
 - Did you get a message with these instructions?
 - Did you all do this already?
 - Don't worry if you didn't
+
+---
+
+# Editor
+
+Most popular IDE for rustc development is VS Code
+
+https://rustc-dev-guide.rust-lang.org/building/suggested.html#configuring-rust-analyzer-for-rustc
+
+???
+
+- There are instructions to set up rust-analyzer for vscode
+- Use whatever you feel more comfortable with
 
 ---
 
@@ -97,16 +97,16 @@ cd contributing-to-rustc-exercises
 
 ---
 
-# Editor
+# Rustc Dev Guide
 
-Most popular IDE for rustc development is VS Code
+.center[[![Rustc Dev Guide](content/rustc-dev-guide.png)](https://rustc-dev-guide.rust-lang.org/)]
 
-https://rustc-dev-guide.rust-lang.org/building/suggested.html#configuring-rust-analyzer-for-rustc
+.center[https://rustc-dev-guide.rust-lang.org/]
 
 ???
 
-- There are instructions to set up rust-analyzer for vscode
-- Use whatever you feel more comfortable with
+- You would find everything you need in the Rustc Dev Guide
+- Take one minute to open the guide and navigate it together
 
 ---
 
