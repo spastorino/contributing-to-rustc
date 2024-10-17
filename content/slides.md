@@ -203,8 +203,6 @@ class: medium
   - [Differentiate between methods and associated functions in diagnostics](https://github.com/spastorino/contributing-to-rustc/blob/main/exercises/diag-diff-methods-assoc-fns.md)
 - Features
   - [Pineapple on pizza not allowed](https://github.com/spastorino/contributing-to-rustc/blob/main/exercises/feat-pinneaple-pizza.md)
-  - [Add machine applicable lint to Unsafe extern blocks so items can be automatic upgrade to be unsafe](https://github.com/spastorino/contributing-to-rustc/blob/main/exercises/feat-machine-applicable-lint.md)
-  - [Unsafe Extern Blocks](https://github.com/spastorino/contributing-to-rustc/blob/main/exercises/feat-unsafe-extern-blocks.md)
 
 ???
 
