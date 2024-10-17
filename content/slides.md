@@ -31,7 +31,6 @@ https://github.com/spastorino/contributing-to-rustc
 ???
 
 - Hands on workshop
-- It takes a LOT of time to really learn the compiler and probably nobody understands it all
 
 ---
 
@@ -92,8 +91,7 @@ cd contributing-to-rustc-exercises
 
 ???
 
-- x.py is the build tool for the rust repository
-- It can build docs, run tests, and compile the compiler and standard library.
+- x or x.py you is the build tool for the rust repository
 
 ---
 
@@ -116,23 +114,7 @@ cd contributing-to-rustc-exercises
 
 ???
 
-- Don't worry too much about this
-
----
-
-# Working on an issue
-
-- Confirm/investigate the issue
-    - playground: https://play.rust-lang.org/
-    - godbolt: https://rust.godbolt.org/
-    - bisect-rustc
-    - add a test: https://rustc-dev-guide.rust-lang.org/tests/adding.html
-
-???
-
-- Learn by doing is a great way to learn
-- Hack and read as you go
-- Live demo (playground, godbolt, add test)
+- Think about for each issue, how do you identify what's the affected area of the compiler
 
 ---
 
@@ -145,10 +127,13 @@ cd contributing-to-rustc-exercises
     - add a test: https://rustc-dev-guide.rust-lang.org/tests/adding.html
 - Investigate/explore concepts
     - Try to guess, read relevant parts of the guide go back, investigate
-    - nightly rustc documentation: https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc/index.html
-    - Read issues and pull requests
     - Search for error messages, failures and things to jump to relevant parts of the code
+    - nightly rustc documentation: https://doc.rust-lang.org/nightly/nightly-rustc/rustdoc/index.html
 - Debug
+
+???
+
+- Hack and read as you go
 
 ---
 
@@ -206,30 +191,23 @@ class: medium
 
 ???
 
-ICE: can happen from panics, for example
-Diagnostics: We value good diagnostics
-Features: Only small things here
+- These are real problems that existed in the compiler
+- Do not search for solutions on the internet
 
 ---
 
 # What's next for me?
 
-- Join Zulip discussions https://rust-lang.zulipchat.com/
 - Keep contributing and learning
+    - Search in your area of interest, try to focus
     - Find e-easy and/or e-mentor issues
     - Read issues and pull requests
-    - Search in your area of interest, try to focus
     - Contribute documentation, triage/prioritization, project management, etc
+- Join Zulip discussions https://rust-lang.zulipchat.com/
 
 ???
 
-How do I learn?
-
-- Do whatever you feel more comfortable with to learn
-- Read PRs
-- Project management
-  - Ensure features keep moving
-  - Help teams keep track of and document decisions
+Do whatever you feel more comfortable with to keep learn and contributing
 
 ---
 
