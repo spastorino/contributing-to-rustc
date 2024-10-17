@@ -11,6 +11,7 @@ count: false
 
 [![Slides repo](content/qr.jpg)](https://github.com/spastorino/contributing-to-rustc)
 
+https://santiagopastorino.com/contributing-to-rustc<br>
 https://github.com/spastorino/contributing-to-rustc
 
 ???
