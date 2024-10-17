@@ -24,13 +24,13 @@ https://github.com/spastorino/contributing-to-rustc
 
 # Objectives
 
-- Give you the motivation, tools and willingness to become a contributor
+- Learn by doing
+- We want you to become a contributor
+- Get excited about contributing
 
 ???
 
-- Get excited about contributing
-- This is a hands on workshop
-- Where you would learn by doing
+- Hands on workshop
 - It takes a LOT of time to really learn the compiler and probably nobody understands it all
 
 ---
