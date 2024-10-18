@@ -32,4 +32,3 @@ cd contributing-to-rustc-exercises
 git checkout exercises/bug-unchecked-unsafety
 ./x test tests/ui
 ```
-git 
