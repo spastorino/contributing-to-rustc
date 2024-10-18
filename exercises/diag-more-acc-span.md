@@ -22,7 +22,7 @@ fn foo_with_qualified_path(_: <Bar as T>::Baz);
 # Go to previously cloned exercises repo
 cd contributing-to-rustc-exercises
 git checkout exercises/diag-more-acc-span
-./x test tests/ui
+./x test tests/ui/anon-params/anon-params-denied-2018.rs
 ```
 
 ## Failing Test

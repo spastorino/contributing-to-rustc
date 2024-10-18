@@ -28,7 +28,7 @@ fn main() {}
 # Go to previously cloned exercises repo
 cd contributing-to-rustc-exercises
 git checkout exercises/ice-rpitit-no-body
-./x test tests/ui
+./x test tests/ui/impl-trait/opaque-hidden-inferred-rpitit.rs
 ```
 
 ## Failing Test

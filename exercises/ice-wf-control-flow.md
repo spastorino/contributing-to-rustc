@@ -26,7 +26,7 @@ fn main() {}
 # Go to previously cloned exercises repo
 cd contributing-to-rustc-exercises
 git checkout exercises/ice-wf-control-flow
-./x test tests/ui
+./x test tests/ui/wf/ice-wf-missing-span-in-error-130012.rs
 ```
 
 ## Failing Test

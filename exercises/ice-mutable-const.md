@@ -18,7 +18,7 @@ fn main() {}
 # Go to previously cloned exercises repo
 cd contributing-to-rustc-exercises
 git checkout exercises/ice-mutable-const
-./x test tests/ui
+./x test tests/ui/consts/const-mut-refs/mut_ref_in_final.rs
 ```
 
 ## Failing Test
