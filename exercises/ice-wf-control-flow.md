@@ -1,8 +1,8 @@
 ## Background
 
-When there is a trait with no impls with a function containing an RPITIT, we
-encounter an ICE. The error suggests that the expectation of a defining use,
-which doesn't exist (and cannot because there is no method body).
+Generics found in an associated type in a trait bound requires it to be
+in the trait parameters. The following test should fail because of this,
+but instead ICEs.
 
 ## Test
 
