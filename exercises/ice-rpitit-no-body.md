@@ -30,3 +30,7 @@ cd contributing-to-rustc-exercises
 git checkout exercises/ice-rpitit-no-body
 ./x test tests/ui
 ```
+
+## Failing Test
+
+tests/ui/impl-trait/opaque-hidden-inferred-rpitit.rs

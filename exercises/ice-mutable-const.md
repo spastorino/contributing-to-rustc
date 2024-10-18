@@ -20,3 +20,7 @@ cd contributing-to-rustc-exercises
 git checkout exercises/ice-mutable-const
 ./x test tests/ui
 ```
+
+## Failing Test
+
+tests/ui/consts/const-mut-refs/mut_ref_in_final.rs

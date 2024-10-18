@@ -24,3 +24,7 @@ cd contributing-to-rustc-exercises
 git checkout exercises/diag-more-acc-span
 ./x test tests/ui
 ```
+
+## Failing Test
+
+tests/ui/anon-params/anon-params-denied-2018.rs

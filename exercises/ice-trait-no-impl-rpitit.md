@@ -28,3 +28,7 @@ cd contributing-to-rustc-exercises
 git checkout exercises/ice-trait-no-impl-rpitit
 ./x test tests/ui
 ```
+
+## Failing Test
+
+tests/ui/wf/ice-wf-missing-span-in-error-130012.rs

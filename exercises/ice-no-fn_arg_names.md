@@ -22,3 +22,7 @@ cd contributing-to-rustc-exercises
 git checkout exercises/ice-no-fn_arg_names
 ./x test tests/ui
 ```
+
+## Failing Test
+
+tests/ui/resolve/dont-compute-arg-names-for-non-fn.rs
