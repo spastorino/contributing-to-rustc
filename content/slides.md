@@ -180,8 +180,8 @@ class: medium
 
 - ICEs: Internal Compiler Error
   - [const: don't ICE when encountering a mutable ref to immutable memory](https://github.com/spastorino/contributing-to-rustc/blob/main/exercises/ice-mutable-const.md)
-  - [ICE "tried to get type of this RPITIT with no definition" for complex return position impl trait](https://github.com/spastorino/contributing-to-rustc/blob/main/exercises/ice-rpitit-no-body.md)
   - [ICE: does not have a "fn_arg_names"](https://github.com/spastorino/contributing-to-rustc/blob/main/exercises/ice-no-fn_arg_names.md)
+  - [ICE "tried to get type of this RPITIT with no definition" for complex return position impl trait](https://github.com/spastorino/contributing-to-rustc/blob/main/exercises/ice-rpitit-no-body.md)
   - [ICE: control flow ensures we have a BindingObligation or WhereClauseInExpr here](https://github.com/spastorino/contributing-to-rustc/blob/main/exercises/ice-trait-no-impl-rpitit.md)
 - Diagnostics
   - [More accurate span for anonymous argument suggestion](https://github.com/spastorino/contributing-to-rustc/blob/main/exercises/diag-more-acc-span.md)
